@@ -1,0 +1,11 @@
+---- real estate example data
+
+State	County	Qty	Avg Listing Price ($)	Avg Sale Price ($)
+California	Los Angeles	5	805,082	781,569
+California	San Francisco	6	1,203,543	1,196,025
+New York	Manhattan	1	1,501,364	1,487,908
+New York	Brooklyn	2	912,701	884,419
+Texas	Travis	7	603,817	597,640
+Texas	Dallas	5	762,139	746,732
+Florida	Miami-Dade	4	852,353	844,805
+Florida	Broward	7	718,811	696,111
