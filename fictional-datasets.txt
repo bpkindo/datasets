@@ -9,3 +9,14 @@ Texas	Travis	7	603,817	597,640
 Texas	Dallas	5	762,139	746,732
 Florida	Miami-Dade	4	852,353	844,805
 Florida	Broward	7	718,811	696,111
+
+
+
+---- sales data example
+CustomerID	SalesOrderID	Amount	Date	CustomerZipCode
+1	1	4	20221115	47125
+2	2	5	20231014	02927
+2	3	12.45	20200504	02927
+3	4	5	20240125	00123
+4	5	25.20	20231231	25654
+5	6	8.99	20240101	47158
